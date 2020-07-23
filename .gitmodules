@@ -1,0 +1,3 @@
+[submodule "test-project-sub"]
+	path = test-project-sub
+	url = git@github.com:Zenfeder/test-project-sub.git
